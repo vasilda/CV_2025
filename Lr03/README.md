@@ -21,6 +21,7 @@
 3. Полносвязных слоев: выполняют окончательную классификацию на основе извлеченных признаков
 
 <b> Архитектура модели </b>
+
 Модель CatsDogsCNN состоит из следующих компонентов:
 <pre style="white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
 ┃<span style="font-weight: bold"> Layer (type)                    </span>┃<span style="font-weight: bold"> Output Shape           </span>┃<span style="font-weight: bold">       Param # </span>┃
